@@ -1,6 +1,5 @@
 # HELP (IMPORTANT):
-The file named "main.py" is a example of the library
-The file named "lectura.py" is the library, import using:
+The file named "main.py" is a example of the library; The file named "lectura.py" is the library, import using:
 ```
 from lectura import *
 ```
