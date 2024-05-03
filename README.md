@@ -1,3 +1,11 @@
+# HELP (IMPORTANT):
+The file named "main.py" is a example of the library
+The file named "lectura.py" is the library, import using:
+```
+from lectura import *
+```
+The file named "datos.csv" is the test CSV file.
+
 # PYReadCSV
 A simple way to read CSV files in python3
 
