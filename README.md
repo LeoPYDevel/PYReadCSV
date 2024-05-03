@@ -13,11 +13,13 @@ In summary, this small Python3 library is a useful tool for those who need to re
 
 # Requeriments
 You need to install csv. You can use...
-´´´
+BASH
+```
 pip install csv
-´´´
+```
 or
-´´´
+BASH
+```
 python -m pip install csv
-´´´
+```
 Make sure you are using python3 with pip3
